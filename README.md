@@ -34,7 +34,7 @@ Configuração do Banco de Dados:
 
 Crie um arquivo .env na raiz do projeto com a seguinte variável:
 
-php
+
 Copiar código
 DB_CONNECTION_STRING=mongodb+srv://<usuario>:<senha>@<cluster>/<database>?retryWrites=true&w=majority&appName=<appName>
 Iniciando o Servidor:
